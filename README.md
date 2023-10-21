@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 👋 You can find me here as well - [YouTube](https://www.youtube.com/channel/UCvQ-l8wy3ADeTlpzpXFvUGw)
+
 - 👯 I’m looking to collaborate on **open source project**
 
 - 🤝 I’m looking for help with **DevOps and Kuberntes**
